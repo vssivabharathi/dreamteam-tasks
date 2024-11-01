@@ -9,5 +9,5 @@
 
 **Description**:
 
-Installed the ![Ubuntu](image.png) , didn't faced any issues.
+Installed the Ubuntu ![Ubuntu](image.png) , didn't faced any issues.
 I installed this version because this version has LTS support.
