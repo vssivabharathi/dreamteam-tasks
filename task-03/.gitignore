@@ -1,1 +1,4 @@
-/automate_env
+
+# Ignore specific folders
+Downloading_all_XKCD/xkcd/
+automate_env/
