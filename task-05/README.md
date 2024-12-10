@@ -1,7 +1,6 @@
 # Software Requirements Specification (SRS)
 
-## Name of the application
-Thiraiarangam
+## Name of the application: Thiraiarangam
 
 ---
 
